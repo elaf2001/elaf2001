@@ -22,45 +22,45 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>HTML5</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>CSS3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td> 
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>Python</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>Oracle SQL/PL</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>Figma</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>AWS codecommit</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-codecommit.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>GitLab</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><b>GitHub</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
       </td>
