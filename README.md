@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Elaf (she/her)👋
 
-<!--
-**elaf2001/elaf2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student at Monash University Malaysia and I am currently looking for internship opportunities!!
+- 🔭 I’m currently working on "Copy-paste app usage actions from recordings" for final year research and "ReportCare application" as a part of my final year project. 
+- 🌱 I’m currently learning React Native. 
+- 👯 I’m looking for internship as a full stack developer! 
 
-Here are some ideas to get you started:
+### Connect with me:
+<linkedin> 
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elafaa/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)]https://www.linkedin.com/in/elafaa/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
