@@ -37,6 +37,11 @@
       <td width="25%" align="center">
         <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td> 
+      <td width="25%" align="center">
+        <span><b>JQuery</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
