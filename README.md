@@ -10,25 +10,25 @@
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
-  <img alt="linkedIn logo." src="img/linkedin-light.svg">
+  <img alt="linkedIn logo." src="img/linkedin-light.svg" width="105%">
 </picture>](https://www.linkedin.com/in/elafaa/)
 &nbsp;&nbsp;
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="4%">
+  <img alt="gmail logo." src="img/gmail.png" width="5%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
 ### Languages:
 <picture>
-  <img alt="JavaScript logo." src="img/JavaScript.png" width="4%">
+  <img alt="JavaScript logo." src="img/JavaScript.png" width="5%">
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <img alt="Java logo." src="img/java.png" width="4%">
+  <img alt="Java logo." src="img/java.png" width="5%">
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <img alt="Python logo." src="img/python.png" width="4%">
+  <img alt="Python logo." src="img/python.png" width="5%">
 </picture>
 &nbsp;&nbsp;
 <picture>
