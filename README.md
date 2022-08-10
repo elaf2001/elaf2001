@@ -19,5 +19,5 @@
 
 
 ### Languages:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)]
+[My Skills](https://skills.thijs.gg/icons?i=js,html,css)
 
