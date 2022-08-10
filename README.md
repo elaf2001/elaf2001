@@ -45,16 +45,16 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>SQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <span><b>Oracle SQL/PL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>JQuery</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+        <span><b>Figma</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Python</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>AWS codecommit</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/codecommit.svg">
       </td>
       <td width="25%" align="center">
         <span><b>C Programming</b></span><br><br><br>
