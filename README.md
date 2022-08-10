@@ -14,7 +14,7 @@
 </picture>](https://www.linkedin.com/in/elafaa/)
 &nbsp;&nbsp;
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="3%">
+  <img alt="gmail logo." src="img/gmail.png" width="2.5%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
