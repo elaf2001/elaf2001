@@ -36,13 +36,13 @@
   <img alt="CSS logo." src="img/css.png" width="7%">
 </picture>
 <picture>
-  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="7%">
+  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="10%">
 </picture>
 <picture>
-  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.svg" width="7%">
+  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.svg" width="10%">
 </picture>
 <picture>
-  <img alt="GitHub logo." src="img/gitHub.png" width="7%">
+  <img alt="GitHub logo." src="img/GitHub.png" width="7%">
 </picture>
 <picture>
   <img alt="AWS codecommit logo." src="img/aws-codecommit.png" width="7%">
