@@ -10,16 +10,45 @@
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
-  <img alt="linkedIn logo." src="img/linkedin-light.svg">
+  <img alt="linkedIn logo." src="img/linkedin-light.svg" width="10%">
 </picture>](https://www.linkedin.com/in/elafaa/)
 &nbsp;&nbsp;
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="2.5%">
+  <img alt="gmail logo." src="img/gmail.png" width="10%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
-### Languages:
+### Languages and Tools:
+<picture>
+  <img alt="JavaScript logo." src="img/JavaScript.png" width="10%">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <img alt="Java logo." src="img/java.png" width="10%">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <img alt="Python logo." src="img/python.png" width="10%">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <img alt="HTML logo." src="img/html.png" width="10%">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <img alt="CSS logo." src="img/css.png" width="10%">
+</picture>
+<picture>
+  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="10%">
+</picture>
+<picture>
+  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.svg" width="10%">
+</picture>
+<picture>
+  <img alt="GitHub logo." src="img/gitHub.png" width="10%">
+</picture>
+<picture>
+  <img alt="AWS codecommit logo." src="img/aws-codecommit.png" width="10%">
+</picture>
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skills.thijs.gg/icons?i=js,html,css">
-</picture>]
+
