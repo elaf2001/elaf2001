@@ -38,7 +38,7 @@
   <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer_logo.svg" width="6.5%">
 </picture>
 <picture>
-  <img alt="Figma logo." src="img/figma.png" width="5%">
+  <img alt="Figma logo." src="img/figma.png" width="4.5%">
 </picture>
 <picture>
   <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.png" width="7%">
