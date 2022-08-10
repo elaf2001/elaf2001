@@ -7,8 +7,8 @@
 
 ### Connect with me:
 <linkedin> 
-[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/elafaa/#gh-light-mode-only)
-[![website](img/linkedin-dark.svg)]https://www.linkedin.com/in/elafaa/#gh-dark-mode-only)
+[![This is an image](img/linkedin-light.svg)](https://www.linkedin.com/in/elafaa/#gh-light-mode-only)
+[![This is an image](img/linkedin-dark.svg)]https://www.linkedin.com/in/elafaa/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
