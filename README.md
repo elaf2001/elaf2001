@@ -12,12 +12,9 @@
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
   <img alt="linkedIn logo." src="img/linkedin-light.svg">
 </picture>](https://www.linkedin.com/in/elafaa/)
-
 &nbsp;&nbsp;
 [<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
-  <img alt="linkedIn logo." src="img/linkedin-light.svg">
+  <img alt="linkedIn logo." src="img/gmail.png">
 </picture>]( https://mail.google.com/mail/u/elafasalh@gmail.com)
 
 
