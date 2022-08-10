@@ -12,8 +12,14 @@
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
   <img alt="linkedIn logo." src="img/linkedin-light.svg">
 </picture>](https://www.linkedin.com/in/elafaa/)
-
-
 &nbsp;&nbsp;
+[<picture>
+  <img alt="gmail logo." src="img/gmail.png" width="2.5%">
+</picture>](mailto:elafasalh@gmail.com)
 
 
+### Languages:
+
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skills.thijs.gg/icons?i=js,html,css">
+</picture>]
