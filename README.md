@@ -6,9 +6,14 @@
 - 👯 I’m looking for internship as a full stack developer! 
 
 ### Connect with me:
-<linkedin> 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elafaa/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)]https://www.linkedin.com/in/elafaa/#gh-dark-mode-only)
+
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
+  <img alt="linkedIn logo." src="img/linkedin-light.svg">
+</picture>](https://www.linkedin.com/in/elafaa/)
+
+
 &nbsp;&nbsp;
 
 
