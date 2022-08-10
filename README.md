@@ -10,11 +10,11 @@
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
-  <img alt="linkedIn logo." src="img/linkedin-light.svg" width="105%">
+  <img alt="linkedIn logo." src="img/linkedin-light.svg" width="100%">
 </picture>](https://www.linkedin.com/in/elafaa/)
 &nbsp;&nbsp;
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="5%">
+  <img alt="gmail logo." src="img/gmail.png" width="10%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
