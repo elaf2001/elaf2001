@@ -19,7 +19,22 @@
 
 
 ### Languages:
-
 [<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skills.thijs.gg/icons?i=js,html,css">
+  <img alt="JavaScript logo." src="img/JavaScript.png" width="2.5%">
+</picture>]
+&nbsp;&nbsp;
+[<picture>
+  <img alt="Java logo." src="img/java.png" width="2.5%">
+</picture>]
+&nbsp;&nbsp;
+[<picture>
+  <img alt="Python logo." src="img/python.png" width="2.5%">
+</picture>]
+&nbsp;&nbsp;
+[<picture>
+  <img alt="HTML logo." src="img/html.png" width="2.5%">
+</picture>]
+&nbsp;&nbsp;
+[<picture>
+  <img alt="CSS logo." src="img/css.png" width="2.5%">
 </picture>]
