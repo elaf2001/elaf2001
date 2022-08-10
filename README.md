@@ -8,10 +8,10 @@
 ### Connect with me:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">(https://www.linkedin.com/in/elafaa/)
-  <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">(https://www.linkedin.com/in/elafaa/)
-  <img alt="linkedIn logo." src="img/linkedin-light.svg">(https://www.linkedin.com/in/elafaa/)
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
+  <img alt="linkedIn logo." src="img/linkedin-light.svg">
+</picture>(https://www.linkedin.com/in/elafaa/)
 
 
 &nbsp;&nbsp;
