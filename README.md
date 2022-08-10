@@ -19,5 +19,5 @@
 
 
 ### Languages:
-<i class="fa-brands fa-html5"></i>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 
