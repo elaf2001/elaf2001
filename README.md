@@ -13,7 +13,7 @@
   <img alt="linkedIn logo." src="img/linkedin-light.svg">
 </picture>](https://www.linkedin.com/in/elafaa/)
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="10%">
+  <img alt="gmail logo." src="img/gmail.png" width="3%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
