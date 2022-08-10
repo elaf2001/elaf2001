@@ -19,6 +19,46 @@
 
 
 ### Languages and Tools:
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>HTML5</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>CSS3</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>JavaScript</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Java</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>SQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>JQuery</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Python</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>C Programming</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <picture>
   <img alt="JavaScript logo." src="img/JavaScript.png" width="7%">
 </picture>
