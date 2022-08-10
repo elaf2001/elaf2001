@@ -57,8 +57,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-codecommit.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>C Programming</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span><b>GitLab</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>GitHub</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
       </td>
     </tr>
   </tbody>
