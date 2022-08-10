@@ -36,10 +36,10 @@
   <img alt="CSS logo." src="img/css.png" width="7%">
 </picture>
 <picture>
-  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="10%">
+  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="11%">
 </picture>
 <picture>
-  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.png" width="10%">
+  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.png" width="7%">
 </picture>
 <picture>
   <img alt="GitHub logo." src="img/GitHub.png" width="7%">
