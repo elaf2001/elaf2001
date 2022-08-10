@@ -19,5 +19,7 @@
 
 
 ### Languages:
-[!My Skills](https://skills.thijs.gg/icons?i=js,html,css)
 
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skills.thijs.gg/icons?i=js,html,css">
+</picture>]
