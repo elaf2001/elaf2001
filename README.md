@@ -54,7 +54,7 @@
       </td>
       <td width="25%" align="center">
         <span><b>AWS codecommit</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/awscodecommit.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws-codecommit.svg">
       </td>
       <td width="25%" align="center">
         <span><b>C Programming</b></span><br><br><br>
