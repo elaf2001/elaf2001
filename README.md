@@ -18,7 +18,7 @@
 </picture>](mailto:elafasalh@gmail.com)
 
 
-### Languages:
+### Languages and Tools:
 <picture>
   <img alt="JavaScript logo." src="img/JavaScript.png" width="10%">
 </picture>
@@ -38,3 +38,17 @@
 <picture>
   <img alt="CSS logo." src="img/css.png" width="10%">
 </picture>
+<picture>
+  <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer-Logo.png" width="10%">
+</picture>
+<picture>
+  <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.svg" width="10%">
+</picture>
+<picture>
+  <img alt="GitHub logo." src="img/gitHub.png" width="10%">
+</picture>
+<picture>
+  <img alt="AWS codecommit logo." src="img/aws-codecommit.png" width="10%">
+</picture>
+
+
