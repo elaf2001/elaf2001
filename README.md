@@ -31,7 +31,6 @@
 <picture>
   <img alt="HTML logo." src="img/html.png" width="7%">
 </picture>
-&nbsp;&nbsp;
 <picture>
   <img alt="CSS logo." src="img/css.png" width="7%">
 </picture>
