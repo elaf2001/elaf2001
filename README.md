@@ -14,27 +14,27 @@
 </picture>](https://www.linkedin.com/in/elafaa/)
 &nbsp;&nbsp;
 [<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="2.5%">
+  <img alt="gmail logo." src="img/gmail.png" width="3%">
 </picture>](mailto:elafasalh@gmail.com)
 
 
 ### Languages:
-[<picture>
-  <img alt="JavaScript logo." src="img/JavaScript.png" width="2.5%">
-</picture>]
+<picture>
+  <img alt="JavaScript logo." src="img/JavaScript.png" width="3%">
+</picture>
 &nbsp;&nbsp;
-[<picture>
-  <img alt="Java logo." src="img/java.png" width="2.5%">
-</picture>]
+<picture>
+  <img alt="Java logo." src="img/java.png" width="3%">
+</picture>
 &nbsp;&nbsp;
-[<picture>
-  <img alt="Python logo." src="img/python.png" width="2.5%">
-</picture>]
+<picture>
+  <img alt="Python logo." src="img/python.png" width="3%">
+</picture>
 &nbsp;&nbsp;
-[<picture>
-  <img alt="HTML logo." src="img/html.png" width="2.5%">
-</picture>]
+<picture>
+  <img alt="HTML logo." src="img/html.png" width="3%">
+</picture>
 &nbsp;&nbsp;
-[<picture>
-  <img alt="CSS logo." src="img/css.png" width="2.5%">
-</picture>]
+<picture>
+  <img alt="CSS logo." src="img/css.png" width="3%">
+</picture>
