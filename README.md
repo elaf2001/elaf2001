@@ -40,7 +40,7 @@
       </td> 
       <td width="25%" align="center">
         <span><b>JQuery</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
