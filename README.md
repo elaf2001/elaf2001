@@ -12,9 +12,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
   <img alt="linkedIn logo." src="img/linkedin-light.svg">
 </picture>](https://www.linkedin.com/in/elafaa/)
-&nbsp;&nbsp;
 [<picture>
-  <img alt="linkedIn logo." src="img/gmail.png">
+  <img alt="gmail logo." src="img/gmail.png" style="width:30%">
 </picture>]( https://mail.google.com/mail/u/elafasalh@gmail.com)
 
 
