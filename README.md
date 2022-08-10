@@ -3,7 +3,7 @@
 ## I'm a student at Monash University Malaysia and I am currently looking for internship opportunities!!
 - 🔭 I’m currently working on "Copy-paste app usage actions from recordings" for final year research and "ReportCare application" as a part of my final year project. 
 - 🌱 I’m currently learning React Native. 
-- 👯 I’m looking for internship as a full stack developer! 
+- 👯 I’m looking for an internship opportunity as a full stack developer! 
 
 ### Connect with me:
 
@@ -36,6 +36,9 @@
 </picture>
 <picture>
   <img alt="Oracle SQL logo." src="img/Oracle_SQL_Developer_logo.svg" width="6.5%">
+</picture>
+<picture>
+  <img alt="Figma logo." src="img/figma.png" width="7%">
 </picture>
 <picture>
   <img alt="GitLab logo." src="img/gitlab-logo-gray-rgb.png" width="7%">
