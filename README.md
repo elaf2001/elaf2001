@@ -1,33 +1,50 @@
-# Hi there, I'm Elaf (she/her)👋
 
-## I'm a student at Monash University Malaysia and I am currently looking for internship opportunities!!
-- 🔭 I’m currently working on "Copy-paste app usage actions from recordings" for final year research and "ReportCare application" as a part of my final year project. 
-- 🌱 I’m currently learning React Native. 
-- 👯 I’m looking for an internship opportunity as a full stack developer! 
+<img src="./img/README banner.png">
 
-### Connect with me:
+## About Me
+- 🔭 I am currently self-learning React & Node.js.
+- 👯 I’m looking for a job opportunity as a Full-Stack/Front-end Developer.
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/img/linkedin-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/img/linkedin-light.svg">
-  <img alt="linkedIn logo." src="img/linkedin-light.svg" width="7%">
-</picture>](https://www.linkedin.com/in/elafaa/)
-&nbsp;&nbsp;
-[<picture>
-  <img alt="gmail logo." src="img/gmail.png" width="7%">
-</picture>](mailto:elafasalh@gmail.com)
+## Connect with Me
 
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in my work. You can:
 
-### Languages and Tools:
+- 📫 Reach me at <a href="mailto:elafasalh@gmail.com">elafasalh@gmail.com</a><br>
+- 😄 Find me on <a href="https://www.linkedin.com/in/elafaa/">Linkedin</a><br>
+
+Feel free to drop me a message. Let's learn and grow together!
+
+## Languages and Frameworks
+Here are some of the languages and frameworks I'm familiar with:
+
+### Programming Languages 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">     
+        <span><b>Java</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="50%" align="center">
+        <span><b>Python</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+      
+
+### Web Development
 <table>
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><b>HTML5</b></span><br><br><br>
+        <span><b>HTML</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>CSS3</b></span><br><br><br>
+        <span><b>CSS</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
@@ -35,32 +52,46 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Java</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td> 
+        <span><b>TypeScript</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
       <td width="20%" align="center">
-        <span><b>Python</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>Angular</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
     </tr>
+  </tbody>
+</table>
+
+### Mobile App Development 
+<table>
+  <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="100%" align="center">
+        <span><b>Android Java</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Database and Version control 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><b>Oracle SQL/PL</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
       </td>
-      <td width="20%" align="center">
-        <span><b>Figma</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>AWS codecommit</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-codecommit.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>GitLab</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>GitHub</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
       </td>
