@@ -3,8 +3,8 @@
 
 ## About Me
 - 🔭 I am currently self-learning React & Node.js.
-- 👯 I’m looking for a job opportunity as a Full-Stack/Front-end Developer.
-
+- 👩‍💼 I am a Junior Web Developer at Tapway, Malaysia.
+  
 ## Connect with Me
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in my work. You can:
