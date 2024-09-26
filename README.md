@@ -2,7 +2,6 @@
 <img src="./img/README banner.png">
 
 ## About Me
-- 🔭 I am currently self-learning React & Node.js.
 - 👩‍💼 I am a Junior Web Developer at Tapway, Malaysia.
   
 ## Connect with Me
